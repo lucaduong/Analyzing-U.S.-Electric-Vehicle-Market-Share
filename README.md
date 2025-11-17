@@ -10,3 +10,5 @@ Furthermore, this project highlights leading and lagging states in EV adoption a
 - SQL
 - Excel
 - Tableau
+
+<img width="1425" height="768" alt="Dashboard 1" src="https://github.com/user-attachments/assets/09d8020e-c776-49f1-9c28-3db39754e493" />
