@@ -54,3 +54,4 @@ round(total_hydrogen / total_vehicle * 100,2) as hydrogen_percentage,
 total_vehicle
 from alt_fuels
 ;
+```
