@@ -1,4 +1,3 @@
-```sql 
 -- 1. create the staging table
 
 create table vehicle_data_2
@@ -46,4 +45,3 @@ change column `Gasoline` gasoline int,
 change column `Diesel` diesel int,
 change column `Unknown Fuel` unknown_fuel int
 ;
-```
