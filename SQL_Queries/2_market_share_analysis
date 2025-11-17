@@ -1,4 +1,3 @@
-```sql
 -- 3. market share analysis 
 
 -- 3.1. percentage of vehicles in each state are EVs, PHEVs, HEVs, and gasoline
@@ -54,4 +53,3 @@ round(total_hydrogen / total_vehicle * 100,2) as hydrogen_percentage,
 total_vehicle
 from alt_fuels
 ;
-```
