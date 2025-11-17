@@ -5,7 +5,6 @@ The insights from this analysis will compare EV, PHEV, HEV, and gasoline market 
 Furthermore, this project highlights leading and lagging states in EV adoption and provides data-driven recommendations on where policymakers should prioritize investment.
 
 ---
-
 # Tools Used
 ---
 - SQL
