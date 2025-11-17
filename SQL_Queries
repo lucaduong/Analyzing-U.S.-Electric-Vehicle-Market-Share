@@ -1,1 +1,48 @@
+-- 1. Create the staging table
+
+create table vehicle_data_2
+like vehicle_data;
+
+insert vehicle_data_2
+select *
+from vehicle_data;
+
+select *
+from vehicle_data_2;
+
+-- 2. Modify new table (Data cleaning)
+
+-- 2.1. From text to int
+
+update vehicle_data_2
+set `Electric (EV)` = replace(`Electric (EV)`, ',', ''),
+    `Plug-In Hybrid Electric (PHEV)` = replace(`Plug-In Hybrid Electric (PHEV)`, ',', ''),
+    `Hybrid Electric (HEV)` = replace(`Hybrid Electric (HEV)`,',',''),
+	  `Biodiesel` = replace(`Biodiesel`,',',''),
+    `Ethanol/Flex (E85)` = replace(`Ethanol/Flex (E85)`,',',''),
+    `Compressed Natural Gas (CNG)` = replace(`Compressed Natural Gas (CNG)`,',',''),
+    `Propane` = replace(`Propane`,',',''),
+	  `Hydrogen` = replace(`Hydrogen`,',',''),
+    `Methanol` = replace(`Methanol`,',',''),
+    `Gasoline` = replace(`Gasoline`,',',''),
+    `Diesel` = replace(`Diesel`,',',''),
+    `Unknown Fuel` = replace(`Unknown Fuel`,',','')
+;
+
+-- 2.2. Rename columns + change data type
+
+alter table vehicle_data_2
+change column `Electric (EV)` ev int,
+change column `Plug-In Hybrid Electric (PHEV)` phev int,
+change column `Hybrid Electric (HEV)` hev int,
+change column `Biodiesel` biodiesel int,
+change column `Ethanol/Flex (E85)` e85 int,
+change column `Compressed Natural Gas (CNG)` cng int,
+change column `Propane` propane int,
+change column `Hydrogen` hydrogen int,
+change column `Methanol` methanol int,
+change column `Gasoline` gasoline int,
+change column `Diesel` diesel int,
+change column `Unknown Fuel` unknown_fuel int
+;
 
