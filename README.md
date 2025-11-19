@@ -20,3 +20,7 @@ California has far more EVs than any other state, more than 1 million. Florida a
 
 2. States with the Lowest EV Distribution: 
 North Dakota and Wyoming have the fewest EVs, both below 1,500. These states are geographically large, rural, and have limited charging infrastructure to EV adoption. South Dakota, Alaska, West Virginia, and Mississippi fall in the mid-low range. Overall trend: Low-population rural states with long average driving distances, and fewer charging stations exhibit markedly lower EV adoption. Many of these states also have fewer state-level incentives supporting EVs.
+
+---
+# Market Analysis
+1. Percentage of EVs, PHEVs, HEVs, and Gasoline Vehicles by State
