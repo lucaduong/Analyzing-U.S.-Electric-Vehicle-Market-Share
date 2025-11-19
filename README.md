@@ -23,6 +23,6 @@ North Dakota and Wyoming have the fewest EVs, both below 1,500. These states are
 
 ---
 # Market Analysis
-# 1. Percentage of EVs, PHEVs, HEVs, and Gasoline Vehicles by State
-# 2. Top 5 States with Highest EV Adoption Rate 
+## 1. Percentage of EVs, PHEVs, HEVs, and Gasoline Vehicles by State
+## 2. Top 5 States with Highest EV Adoption Rate 
 
