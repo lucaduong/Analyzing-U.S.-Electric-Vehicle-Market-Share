@@ -14,6 +14,7 @@ Furthermore, this project highlights leading and lagging states in EV adoption a
 ---
 # Electric Vehicles Distribution Highlights
 <img width="1838" height="768" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/19ecec3f-9057-4303-bf82-7c46acf44c32" />
+<img width="1635" height="813" alt="Sheet 4 (1)" src="https://github.com/user-attachments/assets/1d27d382-7e86-481d-aba5-f6702680e836" />
 
 1. States with the Highest EV Distribution:
 California has far more EVs than any other state, more than 1 million. Florida and Texas follow but at much lower levels, each under 300,000 EVs. These states have large populations and major metro areas driving EV adoption. Overall trend: EV adoption is strongly correlated with population size, urbanization, and progressive environmental policy. States with established EV incentives and infrastructure show significantly higher EV presence.
