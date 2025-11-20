@@ -28,6 +28,19 @@ North Dakota and Wyoming have the fewest EVs, both below 1,500. These states are
 - California stands out as the clear leader in Electric vehicles adoption at 3.41%, followed by states like DC (2.60%), and Hawaii (2.37%).
 - Plug-In Hybrid Electric vehicles adoption is highest in DC (1.19%), California (1.11%), and Vermont (0.96%).
 - HEVs show a stronger presence than both EVs and PHEVs in many regions, including DC (5.80%), California (4.62%), and Washington (4.51%) highlighting the significant role hybrids play in alternative-fuel markets.
+  
 ### 2. Top 5 States with Highest EV Adoption Rate 
 <img width="964" height="813" alt="Sheet 4" src="https://github.com/user-attachments/assets/28a961a5-a239-4a4e-b774-622b3153ca95" />
 
+- California and The District of Columbia and lead the nation in EV adoption, each with roughly 3% of registered vehicles being electric, making them clear frontrunners.
+- Following them are states such as Hawaii, Washington, and Nevada showing similarly strong adoption levels, all near the 2% range.
+- In most states, however, EV penetration remains low, around 1% or below, with 34 states falling under the 1% threshold.
+
+### 3. Compare EV adoption in California vs. other large states (e.g., Texas, Florida, New York)
+<img width="885" height="576" alt="Screenshot 2025-11-20 132057" src="https://github.com/user-attachments/assets/f0d36e8c-3611-4c79-9ccb-c7d4a8be78de" />
+<img width="637" height="333" alt="image" src="https://github.com/user-attachments/assets/083fafa2-6ab3-4a55-94b9-cebd79b5713e" />
+
+- Among major states, California stands out with a 3.41% EV adoption rate, placing it well ahead.
+- Florida, despite having over 254,000 registered EVs, reaches only 1.37%, highlighting a much lower penetration relative to its total vehicle base.
+- New York reports a similar pattern, with EVs making up just 1.16% of vehicles.
+- Texas shows the weakest adoption at 0.89%. Even though the state has more than 230,000 EVs, its large vehicle population dilutes the overall adoption rate.
