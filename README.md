@@ -23,6 +23,11 @@ North Dakota and Wyoming have the fewest EVs, both below 1,500. These states are
 
 ---
 # Market Analysis
-## 1. Percentage of EVs, PHEVs, HEVs, and Gasoline Vehicles by State
-## 2. Top 5 States with Highest EV Adoption Rate 
+### 1. Percentage of EVs, PHEVs, HEVs, and Gasoline Vehicles by State
+- Gasoline vehicles remain the dominant mode of transportation nationwide, with most states recording over 80% gasoline registrations. For example, Rhode Island has the highest share at 89.11%, while Wyoming has the lowest at 74.91%.
+- California stands out as the clear leader in Electric vehicles adoption at 3.41%, followed by states like DC (2.60%), and Hawaii (2.37%).
+- Plug-In Hybrid Electric vehicles adoption is highest in DC (1.19%), California (1.11%), and Vermont (0.96%).
+- HEVs show a stronger presence than both EVs and PHEVs in many regions, including DC (5.80%), California (4.62%), and Washington (4.51%) highlighting the significant role hybrids play in alternative-fuel markets.
+### 2. Top 5 States with Highest EV Adoption Rate 
+<img width="964" height="813" alt="Sheet 4" src="https://github.com/user-attachments/assets/28a961a5-a239-4a4e-b774-622b3153ca95" />
 
