@@ -14,7 +14,6 @@ Furthermore, this project highlights leading and lagging states in EV adoption a
 ---
 # Electric Vehicles Distribution Highlights
 <img width="1838" height="768" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/19ecec3f-9057-4303-bf82-7c46acf44c32" />
-<img width="1635" height="813" alt="Sheet 4 (1)" src="https://github.com/user-attachments/assets/1d27d382-7e86-481d-aba5-f6702680e836" />
 
 1. States with the Highest EV Distribution:
 California has far more EVs than any other state, more than 1 million. Florida and Texas follow but at much lower levels, each under 300,000 EVs. These states have large populations and major metro areas driving EV adoption. Overall trend: EV adoption is strongly correlated with population size, urbanization, and progressive environmental policy. States with established EV incentives and infrastructure show significantly higher EV presence.
@@ -31,7 +30,7 @@ North Dakota and Wyoming have the fewest EVs, both below 1,500. These states are
 - HEVs show a stronger presence than both EVs and PHEVs in many regions, including DC (5.80%), California (4.62%), and Washington (4.51%) highlighting the significant role hybrids play in alternative-fuel markets.
   
 ### 2. Top 5 States with Highest EV Adoption Rate 
-<img width="964" height="813" alt="Sheet 4" src="https://github.com/user-attachments/assets/28a961a5-a239-4a4e-b774-622b3153ca95" />
+<img width="1635" height="813" alt="Sheet 4 (1)" src="https://github.com/user-attachments/assets/1d27d382-7e86-481d-aba5-f6702680e836" />
 
 - California and The District of Columbia and lead the nation in EV adoption, each with roughly 3% of registered vehicles being electric, making them clear frontrunners.
 - Following them are states such as Hawaii, Washington, and Nevada showing similarly strong adoption levels, all near the 2% range.
