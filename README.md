@@ -37,7 +37,7 @@ North Dakota and Wyoming have the fewest EVs, both below 1,500. These states are
 - In most states, however, EV penetration remains low, around 1% or below, with 34 states falling under the 1% threshold.
 
 ### 3. Compare EV adoption in California vs. other large states (e.g., Texas, Florida, New York)
-<img width="885" height="576" alt="Screenshot 2025-11-20 132057" src="https://github.com/user-attachments/assets/f0d36e8c-3611-4c79-9ccb-c7d4a8be78de" />
+<img width="885" height="527" alt="Screenshot 2025-11-20 132057" src="https://github.com/user-attachments/assets/1188d2b6-eb0d-45f1-8dc9-e07dcd3bf196" />
 <img width="637" height="333" alt="image" src="https://github.com/user-attachments/assets/083fafa2-6ab3-4a55-94b9-cebd79b5713e" />
 
 - Among major states, California stands out with a 3.41% EV adoption rate, placing it well ahead.
