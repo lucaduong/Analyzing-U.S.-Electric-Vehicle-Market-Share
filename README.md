@@ -51,3 +51,15 @@ North Dakota and Wyoming have the fewest EVs, both below 1,500. These states are
 - E85 vehicles make up the largest share of alternative-fuel vehicles, representing 7.05% of all registered vehicles, with a total of 20.24 million vehicles nationwide.
 - Biodiesel vehicles account for 0.98% of the fleet, totaling 2.8 million vehicles.
 - Hydrogen-powered vehicles remain extremely rare, making up only 0.01% of all vehicles, with just 16,900 registered nationally, remains a highly niche fuel type with minimal adoption. 
+
+---
+# Conclusion
+### 1. Key insights
+- Gasoline vehicles continue to dominate the market
+- EV market: California and the District of Columbia are the clear frontrunners. States with strong EV adoption near ~2% include Washington, Hawaii, Colorado, New Jersey and a few others. The majority of states (≈40) have EV penetration at or below 1%, so most of the country remains early in the transition. Large states such as Texas and Florida have many EVs in absolute terms but low percentages relative to their huge vehicle populations.
+- Alternative fuels context: E85 is the only alternative fuel with meaningful market presence; biodiesel is modest and hydrogen is essentially niche.
+
+### 2. Infrastructure Planning
+- States with high EV share (CA, DC, WA, HI, CO, NJ) need continued expansion of fast chargers and grid upgrades to keep pace with adoption.
+- Large, low-penetration states (TX, FL) are high-potential markets, these require proactive charging deployment now to avoid future bottlenecks. Moreover, they will see rapid percentage growth as adoption accelerates.
+- Investment should balance where adoption is already high to avoid overload and where absolute EV counts are large but relative penetration is low to unlock growth.
