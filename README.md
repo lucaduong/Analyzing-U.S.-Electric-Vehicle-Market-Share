@@ -44,3 +44,10 @@ North Dakota and Wyoming have the fewest EVs, both below 1,500. These states are
 - Florida, despite having over 254,000 registered EVs, reaches only 1.37%, highlighting a much lower penetration relative to its total vehicle base.
 - New York reports a similar pattern, with EVs making up just 1.16% of vehicles.
 - Texas shows the weakest adoption at 0.89%. Even though the state has more than 230,000 EVs, its large vehicle population dilutes the overall adoption rate.
+
+### 4. Which alternative fuels (biodiesel, ethanol/E85, hydrogen) have meaningful presence vs. niche usage
+<img width="437" height="244" alt="image" src="https://github.com/user-attachments/assets/84ad9436-ba61-42bd-8e33-9464c30bb1a7" />
+
+- E85 vehicles make up the largest share of alternative-fuel vehicles, representing 7.05% of all registered vehicles, with a total of 20.24 million vehicles nationwide.
+- Biodiesel vehicles account for 0.98% of the fleet, totaling 2.8 million vehicles.
+- Hydrogen-powered vehicles remain extremely rare, making up only 0.01% of all vehicles, with just 16,900 registered nationally, remains a highly niche fuel type with minimal adoption. 
